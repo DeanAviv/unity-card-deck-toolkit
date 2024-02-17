@@ -64,7 +64,3 @@ public class ExampleUsage : MonoBehaviour
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize the README file further based on your project's specific details and requirements. If you need any further assistance or modifications, please let me know!
