@@ -32,7 +32,7 @@ A toolkit designed for Unity developers to create and manage card decks, demonst
 ## Installation
 
 1. Clone or download this repository.
-2. Copy the `CardDeckLogic` folder into your Unity project's `Assets` directory.
+2. Copy the `DeckOfCards` folder into your Unity project's `Assets` directory.
 3. Use the provided classes and scriptable objects in your Unity project as needed.
 
 ## Example
