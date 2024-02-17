@@ -1,4 +1,4 @@
-# Unity Card Deck Logic Toolkit
+# Unity Card Deck Toolkit
 
 A toolkit designed for Unity developers to create and manage card decks, demonstrating the power of scriptable objects. Developed as a personal learning project.
 
@@ -32,7 +32,7 @@ A toolkit designed for Unity developers to create and manage card decks, demonst
 ## Installation
 
 1. Clone or download this repository.
-2. Copy the `CardDeckLogic` folder into your Unity project's `Assets` directory.
+2. Copy the `DeckOfCards` folder into your Unity project's `Assets` directory.
 3. Use the provided classes and scriptable objects in your Unity project as needed.
 
 ## Example
@@ -64,7 +64,3 @@ public class ExampleUsage : MonoBehaviour
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize the README file further based on your project's specific details and requirements. If you need any further assistance or modifications, please let me know!
