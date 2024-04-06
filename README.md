@@ -21,13 +21,14 @@ A toolkit designed for Unity developers to create and manage card decks, demonst
 
 3. **Manage Decks**:
    - Use the `CardDeck` class to manage your card decks within your Unity project.
-   - Shuffle decks, draw cards, and add cards to decks programmatically.
+   - Shuffle decks, draw cards, add cards to decks, and manage a discard pile.
 
 ## Scripts Overview
 
 - **CardDeck.cs**: Defines the `CardDeck` class for managing card decks. Includes functionality for shuffling decks, drawing cards, and adding cards.
 - **DeckData.cs**: Defines the `DeckData` scriptable object class for defining card decks. Includes properties for deck name, description, cover artwork, and list of cards.
 - **CardData.cs**: Defines the `CardData` scriptable object class for defining individual cards. Includes properties for card name, description, artwork, mana cost, power, defense, and health.
+- **DiscardPile.cs**: Defines the `DiscardPile` class for managing a discard pile in Unity card games. Provides methods to add cards to the discard pile and clear the discard pile.
 
 ## Installation
 
