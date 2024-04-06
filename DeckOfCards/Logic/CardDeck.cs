@@ -64,6 +64,13 @@ namespace CardDeckLogic
             return PulledCards(amount);
         }
 
+        /// <summary>
+        /// Returns a list of the pulled cards from the deck, 
+        /// If there are not enough cards to pull in deck will pull the amount of cards availalbe in deck
+        /// Using the Mathf.Min method 
+        /// </summary>
+        /// <param name="amount"></param>
+        /// <returns></returns>
         private List<CardData> PulledCards(int amount)
         {
             List<CardData> cards = new List<CardData>();
